@@ -25,30 +25,8 @@ def make_and_add_path():
     return parent_dir
 
 
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
-make_and_add_path()
+for loop in range(10000):
+    make_and_add_path()
 
 time.sleep(5)
 
